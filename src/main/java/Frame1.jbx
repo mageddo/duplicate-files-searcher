@@ -1,0 +1,35 @@
+[PropertyInfo]
+border1,javax.swing.border.Border,false,false, , ,false,<default>
+files,java.util.Vector,false,false, , ,false,<default>
+hash,java.util.Vector,false,false, , ,false,<default>
+image1,javax.swing.ImageIcon,false,false, , ,false,<default>
+image2,javax.swing.ImageIcon,false,false, , ,false,<default>
+image3,javax.swing.ImageIcon,false,false, , ,false,<default>
+JButton1,javax.swing.JButton,false,false, , ,false,<default>
+JButton2,javax.swing.JButton,false,false, , ,false,<default>
+JButton3,javax.swing.JButton,false,false, , ,false,<default>
+JButton4,javax.swing.JButton,false,false, , ,false,<default>
+JButton5,javax.swing.JButton,false,false, , ,false,<default>
+JButton6,javax.swing.JButton,false,false, , ,false,<default>
+JCheckBox1,javax.swing.JCheckBox,false,false, , ,false,<default>
+JCheckBox2,javax.swing.JCheckBox,false,false, , ,false,<default>
+JCheckBox3,javax.swing.JCheckBox,false,false, , ,false,<default>
+JLabel1,javax.swing.JLabel,false,false, , ,false,<default>
+JLabel2,javax.swing.JLabel,false,false, , ,false,<default>
+JMenuBar1,javax.swing.JMenuBar,false,false, , ,false,<default>
+JMenuFile,javax.swing.JMenu,false,false, , ,false,<default>
+JMenuFileExit,javax.swing.JMenuItem,false,false, , ,false,<default>
+JMenuHelp,javax.swing.JMenu,false,false, , ,false,<default>
+JMenuHelpAbout,javax.swing.JMenuItem,false,false, , ,false,<default>
+JPanel1,javax.swing.JPanel,false,false, , ,false,<default>
+JProgressBar1,javax.swing.JProgressBar,false,false, , ,false,<default>
+JToolBar,javax.swing.JToolBar,false,false, , ,false,<default>
+JTree1,javax.swing.JTree,false,false, , ,false,<default>
+root,javax.swing.tree.DefaultMutableTreeNode,false,false, , ,false,<default>
+statusBar,javax.swing.JLabel,false,false, , ,false,<default>
+th1,searchforduplicatefiles.CalculateHash,false,false, , ,false,<default>
+[IconNames]
+
+
+
+
